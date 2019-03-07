@@ -1,6 +1,6 @@
 QlikSenseReloader
 ======
-Reload Qlik Sense apps from the command line
+Reload Qlik Sense apps from the command line.
 
 Installation
 ------
